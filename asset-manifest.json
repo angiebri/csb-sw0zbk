@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://angiebri.github.io/csb-sw0zbk/static/css/main.8fd4612f.chunk.css",
+    "main.js": "https://angiebri.github.io/csb-sw0zbk/static/js/main.c1bc4518.chunk.js",
+    "main.js.map": "https://angiebri.github.io/csb-sw0zbk/static/js/main.c1bc4518.chunk.js.map",
+    "runtime-main.js": "https://angiebri.github.io/csb-sw0zbk/static/js/runtime-main.7e85b186.js",
+    "runtime-main.js.map": "https://angiebri.github.io/csb-sw0zbk/static/js/runtime-main.7e85b186.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://angiebri.github.io/csb-sw0zbk/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://angiebri.github.io/csb-sw0zbk/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://angiebri.github.io/csb-sw0zbk/index.html",
+    "static/css/main.8fd4612f.chunk.css.map": "https://angiebri.github.io/csb-sw0zbk/static/css/main.8fd4612f.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://angiebri.github.io/csb-sw0zbk/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e85b186.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.8fd4612f.chunk.css",
+    "static/js/main.c1bc4518.chunk.js"
+  ]
+}
